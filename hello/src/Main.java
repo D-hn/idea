@@ -23,7 +23,7 @@ m.put("1","qq");
     }
     @Test
     public  void t2(){
-
+        int e=1;
         System.out.println(a);
     }
 }
